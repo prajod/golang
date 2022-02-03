@@ -1,2 +1,2 @@
 # golang
-A repo golang based projects
+A repo for golang based projects
