@@ -1,6 +1,8 @@
 __Video Sketch__
 
-This project enables video sharing over extremely low bandwidth networks. 
+This project is intended to showcase a real life example of the parallel processing and high performance features of the Go language. 
+
+Video Sketch enables video sharing over extremely low bandwidth networks. 
 
 That is accomplished by creating a sketch of the video frames(using edge detection), compressing the created frames of black and white pixels into byte arrays and sending that to a browser over http. Javascript code is then used in the browser to recreate the animations present in the original video.
 
